@@ -38,5 +38,6 @@ Product insights
 
 * Data visualization (via Google Looker Studio): https://lookerstudio.google.com/s/lypphXB5H54
 * Data visualization (via Tableau): https://public.tableau.com/views/DashboardSuperstore_17113433910810/Summary?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+* Notebook: https://github.com/harishmuh/superstore-retail-analytics/blob/main/Superstore_retail_analytics.ipynb
 * Slide: https://github.com/harishmuh/superstore-retail-analytics/blob/main/Superstore_Retail_Analytics.pdf 
   
