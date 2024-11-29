@@ -35,7 +35,7 @@ Product insights
 * Phones and chairs contributed to the highest sales value. However, copiers contributed to being the most profitable subcategory. It is recommended to stock more of the top ten most ordered products, especially during the peak season, and conduct more marketing for them in the less performance area. It is also recommended to improve the marketing process/strategy to sell more of the top 10 most profitable products, to get more profit. It is recommended to fix or eliminate the least profitable products, especially those that cause some losses to the company
 
 # Data Visualization and Slides
-
+* [Dashboard](#) 
 * Data visualization (via Google Looker Studio): https://lookerstudio.google.com/s/lypphXB5H54
 * Data visualization (via Tableau): https://public.tableau.com/views/DashboardSuperstore_17113433910810/Summary?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 * Notebook: https://github.com/harishmuh/superstore-retail-analytics/blob/main/Superstore_retail_analytics.ipynb
