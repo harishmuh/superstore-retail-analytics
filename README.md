@@ -36,7 +36,9 @@ Product insights
 
 # Assets
 * [Dashboard](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Dashboard_Superstore_Harish_Muhammad.pdf) | [Looker Studio](https://lookerstudio.google.com/s/lypphXB5H54)
+  
   ![Dashboardpng](https://github.com/harishmuh/superstore-retail-analytics/blob/main/supestoredashboard.PNG)
+  
 * [Dashboard (Tableau)](https://public.tableau.com/views/DashboardSuperstore_17113433910810/Summary?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 * [Notebook for this analysis](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Superstore_retail_analytics.ipynb)
 * [Slides](https://github.com/harishmuh/superstore-retail-analytics/blob/main/Superstore_Retail_Analytics.pdf) 
